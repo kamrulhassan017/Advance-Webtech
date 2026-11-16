@@ -1,3 +1,3 @@
 # Advance-Webtech
 
-The 4 lab reports are in the branches of this repository.
+The 4 lab projects are in the folders of this repository.
